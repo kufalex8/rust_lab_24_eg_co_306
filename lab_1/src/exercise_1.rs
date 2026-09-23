@@ -1,5 +1,5 @@
 //execise 1.3
-pub fn main () {
+pub fn main() {
     // Immutable varriable
     let x = 5;
     println!("x = { }", x);
