@@ -104,9 +104,9 @@ Features include:
 - Division uses floating-point numbers and may have precision limitations.
 
 ## Cargo Test Output
- Compiling lab_2 v0.1.0 (C:\Users\VICTOR OKOKO\Documents\rust_lab_24_eg_co_394\lab_2)
+ Compiling lab_2 v0.1.0 (C:\Users\USER\Documents\rust_lab_24_eg_co_306\lab_2)
     Finished `test` profile [unoptimized + debuginfo] target(s) in 1.32s
-     Running unittests src\main.rs (C:\Users\VICTOR OKOKO\Documents\rust_lab_24_eg_co_394\target\debug\deps\lab_2-94cef7ee01ecb57e.exe)
+     Running unittests src\main.rs (C:\Users\USER\Documents\rust_lab_24_eg_co_306\target\debug\deps\lab_2-94cef7ee01ecb57e.exe)
 
 running 0 tests
 

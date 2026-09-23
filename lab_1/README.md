@@ -71,9 +71,9 @@ Features include:
 
 ## Cargo Test Output
 
-Compiling lab_1 v0.1.0 (C:\Users\VICTOR OKOKO\Documents\rust_lab_24_eg_co_394\lab_1)
+Compiling lab_1 v0.1.0 (C:\Users\USEER\Documents\rust_lab_24_eg_co_306\lab_1)
     Finished `test` profile [unoptimized + debuginfo] target(s) in 0.51s
-     Running unittests src\main.rs (C:\Users\VICTOR OKOKO\Documents\rust_lab_24_eg_co_394\target\debug\deps\lab_1-3efd608bdccde28e.exe)
+     Running unittests src\main.rs (C:\Users\USER\Documents\rust_lab_24_eg_co_306\target\debug\deps\lab_1-3efd608bdccde28e.exe)
 
 running 0 tests
 
