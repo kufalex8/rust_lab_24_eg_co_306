@@ -102,9 +102,9 @@ Features include:
 
 ## Cargo Test Output
 
-Compiling lab_6 v0.1.0 (C:\Users\VICTOR OKOKO\Documents\rust_lab_24_eg_co_394\lab_6)
+Compiling lab_6 v0.1.0 (C:\Users\USER\Documents\rust_lab_24_eg_co_306\lab_6)
     Finished `test` profile [unoptimized + debuginfo] target(s) in 4.25s
-     Running unittests src\main.rs (C:\Users\VICTOR OKOKO\Documents\rust_lab_24_eg_co_394\target\debug\deps\lab_6-1c5b45fd875f67b7.exe)
+     Running unittests src\main.rs (C:\Users\USER\Documents\rust_lab_24_eg_co_306\target\debug\deps\lab_6-1c5b45fd875f67b7.exe)
 
 running 0 tests
 
