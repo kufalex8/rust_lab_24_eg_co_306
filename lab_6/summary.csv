@@ -1,0 +1,11 @@
+URL,WordCount
+https://example.com,27
+https://www.rust-lang.org,1496
+https://doc.rust-lang.org,1169
+https://crates.io,91
+https://github.com,30053
+https://docs.rs,875
+https://tokio.rs,1604
+https://httpbin.org/html,617
+https://www.wikipedia.org,13
+https://www.mozilla.org,2747
